@@ -2,13 +2,12 @@
  * @Author: 19920205lq75321. liqiang9205@126.com
  * @Date: 2023-04-27 12:33:36
  * @LastEditors: 19920205lq75321. liqiang9205@126.com
- * @LastEditTime: 2023-04-27 14:14:40
+ * @LastEditTime: 2023-04-27 14:19:24
  * @Description:
  *
  * Copyright (c) 2023 by ${git_name_email}, All Rights Reserved.
  */
 import { ss } from '@/utils/storage'
-
 const LOCAL_NAME = 'userStorage'
 
 export interface UserInfo {
